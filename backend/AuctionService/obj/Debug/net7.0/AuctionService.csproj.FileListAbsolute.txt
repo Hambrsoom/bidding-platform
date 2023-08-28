@@ -23,3 +23,17 @@
 /Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/obj/Debug/net7.0/AuctionService.pdb
 /Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/obj/Debug/net7.0/AuctionService.genruntimeconfig.cache
 /Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/AutoMapper.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Humanizer.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Npgsql.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/bin/Debug/net7.0/System.CodeDom.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/obj/Debug/net7.0/AuctionService.csproj.AssemblyReference.cache
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CopyComplete
