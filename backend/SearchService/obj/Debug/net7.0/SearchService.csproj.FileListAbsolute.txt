@@ -47,3 +47,4 @@
 /Users/hambrsoombaboyan/repos/bidding-platform/backend/SearchService/obj/Debug/net7.0/SearchService.pdb
 /Users/hambrsoombaboyan/repos/bidding-platform/backend/SearchService/obj/Debug/net7.0/SearchService.genruntimeconfig.cache
 /Users/hambrsoombaboyan/repos/bidding-platform/backend/SearchService/obj/Debug/net7.0/ref/SearchService.dll
+/Users/hambrsoombaboyan/repos/bidding-platform/backend/SearchService/bin/Debug/net7.0/Data/Auctions.json
