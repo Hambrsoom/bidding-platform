@@ -46,14 +46,14 @@ namespace AuctionService.Data.Migrations
                     b.Property<int?>("SoldAmount")
                         .HasColumnType("integer");
 
+                    b.Property<int>("Status")
+                        .HasColumnType("integer");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("Winner")
                         .HasColumnType("text");
-
-                    b.Property<int>("status")
-                        .HasColumnType("integer");
 
                     b.HasKey("Id");
 

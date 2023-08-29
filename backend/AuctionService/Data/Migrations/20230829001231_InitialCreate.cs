@@ -24,7 +24,7 @@ namespace AuctionService.Data.Migrations
                     CreatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
                     UpdatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
                     AuctionEnd = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
-                    status = table.Column<int>(type: "integer", nullable: false)
+                    Status = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
                 {
