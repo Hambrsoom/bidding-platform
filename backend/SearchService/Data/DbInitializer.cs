@@ -24,7 +24,12 @@ public class DbInitializer {
 
             var itemData = await File.ReadAllTextAsync("Data/Auctions.json");
 
-            var items = JsonSerializer.Deserialize<Item[]>(itemData, new JsonSerializerOptions());
+            var options = new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            };
+
+            var items = JsonSerializer.Deserialize<Item[]>(itemData, options);
 
             await DB.SaveAsync(items);
         }
